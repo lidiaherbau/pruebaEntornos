@@ -1,1 +1,2 @@
 primera linea de docu1.txt
+segunda linea de docu1.txt
