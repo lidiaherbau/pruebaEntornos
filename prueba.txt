@@ -1,4 +1,2 @@
 archivo de prueba
 segunda linea escrita en githhub
-prueba de reset
-prueba de resett
